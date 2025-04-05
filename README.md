@@ -1,0 +1,1 @@
+ini adalah aplikasi pendeteksi wajah dengan fitur suku dan umur.
