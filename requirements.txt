@@ -1,1 +1,2 @@
 pip install opencv-python mtcnn facenet-pytorch tensorflow keras scikit-learn matplotlib seaborn pandas numpy
+pip install opencv-python tensorflow scikit-learn matplotlib seaborn
