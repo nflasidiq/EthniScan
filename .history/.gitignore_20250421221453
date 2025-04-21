@@ -1,0 +1,6 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+ethnic_classifier_model.keras*
