@@ -7,7 +7,7 @@ import numpy as np
 from PIL import Image
 import io
 
-ethnic_labels = ["Jawa", "Minang", "Sunda"]
+ethnic_labels = ["Jawa", "Sunda", "Minang"]
 
 def build_ethnicity_model(num_classes):
     base_model = ResNet50(weights='imagenet', include_top=False, input_shape=(224, 224, 3))
